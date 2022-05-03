@@ -216,7 +216,7 @@ _llvm_distributions_base_url = {
     "12.0.0": "https://github.com/llvm/llvm-project/releases/download/llvmorg-",
     "12.0.1": "https://github.com/llvm/llvm-project/releases/download/llvmorg-",
     "13.0.0": "https://github.com/llvm/llvm-project/releases/download/llvmorg-",
-    "13.0.1": "https://github.com/miguelpalomera/clang/releases/download/"
+    "13.0.1": "https://github.com/miguelpalomera/clang/releases/download/",
     "14.0.0": "https://github.com/llvm/llvm-project/releases/download/llvmorg-",
 }
 
