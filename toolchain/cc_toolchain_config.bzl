@@ -64,6 +64,15 @@ def cc_toolchain_config(
             "darwin_x86_64",
             "darwin_x86_64",
         ),
+        "darwin-arm64": (
+            "clang-arm64-darwin",
+            "arm64-apple-macosx",
+            "darwin",
+            "macosx",
+            "clang",
+            "darwin_arm64",
+            "darwin_arm64",
+        ),
         "linux-aarch64": (
             "clang-aarch64-linux",
             "aarch64-unknown-linux-gnu",
