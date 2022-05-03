@@ -179,6 +179,7 @@ _llvm_distributions = {
     "clang+llvm-13.0.0-x86_64-apple-darwin.tar.xz": "d051234eca1db1f5e4bc08c64937c879c7098900f7a0370f3ceb7544816a8b09",
     "clang+llvm-13.0.0-x86_64-linux-gnu-ubuntu-16.04.tar.xz": "76d0bf002ede7a893f69d9ad2c4e101d15a8f4186fbfe24e74856c8449acd7c1",
     "clang+llvm-13.0.0-x86_64-linux-gnu-ubuntu-20.04.tar.xz": "2c2fb857af97f41a5032e9ecadf7f78d3eff389a5cd3c9ec620d24f134ceb3c8",
+    "clang+llvm-13.0.1-arm64-apple-darwin.tar.xz": "d48ad9bfbc1cb934991a4b4fcd3a6a5097d2c96a8bcdf28707c00721882c3966",
 
     # 14.0.0
     "clang+llvm-14.0.0-powerpc64le-linux-rhel-7.9.tar.xz": "7a31de37959fdf3be897b01f284a91c28cd38a2e2fa038ff58121d1b6f6eb087",
@@ -215,6 +216,7 @@ _llvm_distributions_base_url = {
     "12.0.0": "https://github.com/llvm/llvm-project/releases/download/llvmorg-",
     "12.0.1": "https://github.com/llvm/llvm-project/releases/download/llvmorg-",
     "13.0.0": "https://github.com/llvm/llvm-project/releases/download/llvmorg-",
+    "13.0.1": "https://github.com/miguelpalomera/clang/releases/download/"
     "14.0.0": "https://github.com/llvm/llvm-project/releases/download/llvmorg-",
 }
 
